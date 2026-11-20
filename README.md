@@ -1,6 +1,22 @@
+<div align="center">
+
+<img src="docs/images/logo.svg" width="120" alt="WiFi Switcher logo">
+
 # WiFi Switcher
 
 **Wi-Fi when it's there. Hotspot when it's not. Hands-free.**
+
+[![Latest release](https://img.shields.io/github/v/release/dcoder-me/wifi-switcher?label=version&color=2563EB)](../../releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/dcoder-me/wifi-switcher/total?color=2563EB)](../../releases)
+![Android 8.0+](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)
+
+### [⬇ Download the APK](../../releases/latest)
+
+| Light | Dark | In action |
+| :---: | :---: | :---: |
+| <img src="docs/images/screenshot-light.png" width="240" alt="Main screen, light mode"> | <img src="docs/images/screenshot-dark.png" width="240" alt="Main screen, dark mode"> | <img src="docs/images/demo.gif" width="240" alt="Demo: app opens and the check interval changes"> |
+
+</div>
 
 A small Android app that flips your phone between Wi-Fi and mobile hotspot on its own:
 
