@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi Switcher</string>
+    <string name="subtitle">Wi-Fi when available, hotspot when not</string>
+    <string name="running">Running</string>
+    <string name="stopped">Stopped</string>
+    <string name="tap_start">Turn on to start switching</string>
+    <string name="power_switch_desc">Turn switcher on or off</string>
+    <string name="grant_permission">Grant Shizuku permission</string>
+    <string name="settings">Settings</string>
+    <string name="interval_label">On hotspot, check for Wi-Fi every</string>
+    <string name="interval_minutes_short">%dm</string>
+    <string name="interval_hours_short">%dh</string>
+    <string name="interval_choice_desc">%d minutes</string>
+    <string name="root_only_hint">Root only. With Shizuku the phone\'s own hotspot name and password are used.</string>
+    <string name="hotspot_name">Hotspot name</string>
+    <string name="hotspot_password">Hotspot password</string>
+    <string name="perm_ready">Shizuku permission granted</string>
+    <string name="perm_missing">Shizuku not granted. Root will be tried.</string>
+    <string name="shizuku_not_running">Open Shizuku and start it first</string>
+    <string name="shizuku_missing">Shizuku not found. Install it first</string>
+    <string name="already_granted">Permission already granted</string>
+    <string name="password_short">Use a password of 8+ characters</string>
+</resources>

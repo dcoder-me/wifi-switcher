@@ -1,0 +1,21 @@
+# OSX
+.DS_Store
+
+# Android/IntelliJ
+build/
+.idea
+.gradle
+.kotlin
+local.properties
+*.iml
+*.hprof
+.cxx/
+
+# APKs ship as GitHub Release assets, not in git
+*.apk
+*.aab
+
+# Signing keys: back them up outside git
+*.jks
+*.keystore
+keystore.properties

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#F6F7F9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="accent">#2563EB</color>
+    <color name="divider">#E5E7EB</color>
+    <color name="tone_ok">#16A34A</color>
+    <color name="tone_busy">#D97706</color>
+    <color name="tone_error">#DC2626</color>
+    <color name="tone_idle">#9CA3AF</color>
+    <color name="icon_bg">#2563EB</color>
+    <color name="switch_track_off">#D1D5DB</color>
+    <color name="segment_thumb">#FFFFFF</color>
+</resources>
